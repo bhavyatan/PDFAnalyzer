@@ -1,5 +1,4 @@
-# PDFAnalyzer
-Creating a README file for your PDFAnalyzer project involves explaining the purpose, features, setup, usage, and any other relevant information for potential users or contributors. Below is a draft for a README file based on the code you've provided:
+
 
 ---
 
